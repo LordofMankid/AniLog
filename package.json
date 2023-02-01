@@ -1,0 +1,28 @@
+{
+  "name": "anilog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "engines" : {
+    "node": "18.12.1"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordofMankid/AniLog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordofMankid/AniLog/issues"
+  },
+  "homepage": "https://github.com/LordofMankid/AniLog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
