@@ -10,7 +10,7 @@
   },
   "engines" : {
     "node": "18.12.1"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LordofMankid/AniLog.git"
